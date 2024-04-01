@@ -7,9 +7,11 @@ ULD is a simple Python app that downloads a list of URLs from a text file.
 Before running the app, make sure you have the following modules installed:
 
 - [requests](https://pypi.org/project/requests/): This module is used for making HTTP requests. It's commonly used for downloading files from URLs. Install it by running:
+  
 pip install requests
 
 - [tqdm](https://pypi.org/project/tqdm/): This module is used to create progress bars. It's not strictly necessary for the functionality of the code, but it provides a nice visual representation of the download progress. Install it by running:
+  
 pip install tqdm
 
 ## Usage
