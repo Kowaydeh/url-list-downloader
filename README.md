@@ -1,4 +1,4 @@
-# url-list-downloader
+# ULD
 A python app that downloads a list of urls from a text file
 It is very simple Just follow the next steps to run it correctly:
 First you need to install "requests" this module is used for making HTTP requests. It's commonly used for downloading files from URLs.
